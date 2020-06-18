@@ -1,0 +1,4 @@
+getwd()
+setwd(desktop)
+setwd(~/desktop)
+setwd(walee.zaman\Desktop)
